@@ -1,0 +1,10 @@
+# Binaries
+tomlq
+*.exe
+
+# Build output
+/dist/
+
+# Test cache (go test manages its own cache elsewhere; keep the tree clean)
+*.test
+*.out
